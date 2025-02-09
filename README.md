@@ -1,10 +1,7 @@
 # Foundations-of-Data-Science
-
-
-
 ---
 
-# **Foundations of Data Science - Course Summary**
+# **Course Summary**
 
 ## 📌 **Course Overview**  
 This course provided a comprehensive introduction to **data science**, covering **Python programming, statistics, probability, data visualization, and hypothesis testing**. Below is a week-by-week breakdown of key learnings.
